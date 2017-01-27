@@ -12,5 +12,14 @@
     <orderEntry type="library" name="scala-sdk-2.12.1" level="application" />
     <orderEntry type="library" scope="TEST" name="org.scalactic:scalactic_2.12:3.0.1" level="project" />
     <orderEntry type="library" scope="TEST" name="org.scalatest:scalatest_2.12:3.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junidecode-0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
